@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: df9b9a03735e0904dbf8249be9fa3618
+timeCreated: 1489063214
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Armature_Eye
+    100006: BalloFoot_L
+    100008: BalloFoot_R
+    100010: Body
+    100012: Bone
+    100014: Calf_L
+    100016: Calf_R
+    100018: Clavicle_L
+    100020: Clavicle_R
+    100022: Eye
+    100024: Eye_L
+    100026: Foot_L
+    100028: Foot_R
+    100030: ForeArm_L
+    100032: ForeArm_R
+    100034: Hair
+    100036: Head
+    100038: IndexFinger_L1
+    100040: IndexFinger_L2
+    100042: IndexFinger_L3
+    100044: IndexFinger_R2
+    100046: IndexFinger_R3
+    100048: IndixFinger_R1
+    100050: MiddleFinger_L1
+    100052: MiddleFinger_L2
+    100054: MiddleFinger_L3
+    100056: MiddleFinger_R1
+    100058: MiddleFinger_R2
+    100060: MiddleFinger_R3
+    100062: MiddleFingerR3
+    100064: Neck
+    100066: Pelvis_L
+    100068: Pelvis_R
+    100070: PinkyFinger_L1
+    100072: PinkyFinger_L2
+    100074: PinkyFinger_L3
+    100076: PinkyFinger_R1
+    100078: PinkyFinger_R2
+    100080: PinkyFinger_R3
+    100082: RingFinger_L1
+    100084: RingFinger_L2
+    100086: RingFinger_L3
+    100088: RingFinger_R1
+    100090: RingFinger_R2
+    100092: Root
+    100094: Spine_002
+    100096: Spine_2
+    100098: Thigh_L
+    100100: Thigh_R
+    100102: Thumb_L1
+    100104: Thumb_L2
+    100106: Thumb_R1
+    100108: Thumb_R2
+    100110: UpperArm_L
+    100112: UpperArm_R
+    400000: //RootNode
+    400002: Armature
+    400004: Armature_Eye
+    400006: BalloFoot_L
+    400008: BalloFoot_R
+    400010: Body
+    400012: Bone
+    400014: Calf_L
+    400016: Calf_R
+    400018: Clavicle_L
+    400020: Clavicle_R
+    400022: Eye
+    400024: Eye_L
+    400026: Foot_L
+    400028: Foot_R
+    400030: ForeArm_L
+    400032: ForeArm_R
+    400034: Hair
+    400036: Head
+    400038: IndexFinger_L1
+    400040: IndexFinger_L2
+    400042: IndexFinger_L3
+    400044: IndexFinger_R2
+    400046: IndexFinger_R3
+    400048: IndixFinger_R1
+    400050: MiddleFinger_L1
+    400052: MiddleFinger_L2
+    400054: MiddleFinger_L3
+    400056: MiddleFinger_R1
+    400058: MiddleFinger_R2
+    400060: MiddleFinger_R3
+    400062: MiddleFingerR3
+    400064: Neck
+    400066: Pelvis_L
+    400068: Pelvis_R
+    400070: PinkyFinger_L1
+    400072: PinkyFinger_L2
+    400074: PinkyFinger_L3
+    400076: PinkyFinger_R1
+    400078: PinkyFinger_R2
+    400080: PinkyFinger_R3
+    400082: RingFinger_L1
+    400084: RingFinger_L2
+    400086: RingFinger_L3
+    400088: RingFinger_R1
+    400090: RingFinger_R2
+    400092: Root
+    400094: Spine_002
+    400096: Spine_2
+    400098: Thigh_L
+    400100: Thigh_R
+    400102: Thumb_L1
+    400104: Thumb_L2
+    400106: Thumb_R1
+    400108: Thumb_R2
+    400110: UpperArm_L
+    400112: UpperArm_R
+    4300000: Hair
+    4300002: Eye
+    4300004: Body
+    7400000: Default Take
+    7400002: AbilityGrounded
+    7400004: Armature_EyeAction
+    7400006: ArmatureAction
+    7400008: Idle
+    7400010: Jump
+    7400012: Land
+    7400014: Land_Attack
+    7400016: Run
+    7400018: Run1
+    7400020: ShootAim
+    7400022: StrafeL
+    7400024: StrafeR
+    7400026: Walk
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eye
+    13700004: Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_EyeAction
+      takeName: Armature_EyeAction
+      firstFrame: 9
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: -1
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Land
+      takeName: Land
+      firstFrame: -1
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Land_Attack
+      takeName: Land_Attack
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run1
+      takeName: Run1
+      firstFrame: -1
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootAim
+      takeName: ShootAim
+      firstFrame: -1
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeL
+      takeName: StrafeL
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeR
+      takeName: StrafeR
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_Eye
+        weight: 1
+      - path: Armature/Armature_Eye/Bone
+        weight: 1
+      - path: Armature/Armature_Eye/Eye_L
+        weight: 1
+      - path: Armature/Pelvis_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis_L/Thigh_L/Calf_L/Foot_L/BalloFoot_L
+        weight: 1
+      - path: Armature/Pelvis_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R
+        weight: 1
+      - path: Armature/Pelvis_R/Thigh_R/Calf_R/Foot_R/BalloFoot_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Spine_002
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/IndexFinger_L1/IndexFinger_L2/IndexFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/MiddleFinger_L1/MiddleFinger_L2/MiddleFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/PinkyFinger_L1/PinkyFinger_L2/PinkyFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/RingFinger_L1/RingFinger_L2/RingFinger_L3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_L/UpperArm_L/ForeArm_L/Thumb_L1/Thumb_L2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/IndixFinger_R1/IndexFinger_R2/IndexFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/MiddleFinger_R1/MiddleFinger_R2/MiddleFingerR3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/PinkyFinger_R1/PinkyFinger_R2/PinkyFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/RingFinger_R1/RingFinger_R2/MiddleFinger_R3
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Clavicle_R/UpperArm_R/ForeArm_R/Thumb_R1/Thumb_R2
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck
+        weight: 1
+      - path: Armature/Root/Spine_002/Spine_2/Neck/Head
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Hair
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

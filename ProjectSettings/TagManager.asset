@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - Fire
+  - environment
+  - destructible
+  - PlayerCamera
+  - floor
+  - StaticEther
+  - NonLocalUI
+  - LobbyPlayer
+  - NonLocalUIElements
+  - Input
+  - PlayerBuildDisplayPlayerUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Players
+  - Ether
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - PlayerOnlyCollisions
+  - Destroyed
+  - Landings
+  - Terrain
+  - Destructible
+  - StaticEther
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Secondary
+    uniqueID: 947200875
+    locked: 0
